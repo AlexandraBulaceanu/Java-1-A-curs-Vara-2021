@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ExIfOperatori
+comment0.text=\r\n\ Se\ dau\ urmatoarele\:\ \ \ h1\ \=\ 5,\ m1\ \=\ 30,\ s1\ \=\ 20\ -\ cand\ am\ ajuns\ la\ coada\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ h2\ \=\ 6,\ m2\ \=\ 40,\ s2\ \=\ 40\ -\ cat\ am\ stat\ la\ coada\r\n\ Ce\ se\ cere?\ la\ cat\ am\ plecat\ de\ la\ coada\ \=>\ rezultatul\ sa\ fie\ salvat\ in\ h1,\ m1,\ s1\ -\ la\ final\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

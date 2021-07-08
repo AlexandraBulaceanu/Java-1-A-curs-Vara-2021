@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pisica
+comment1.params=nume\ varsta\ culoare
+comment1.target=Pisica(java.lang.String,\ int,\ java.lang.String)
+comment1.text=Pisica()\ {\r\n\ \ \ \ \ \ \ \ \r\n}
+comment2.params=p
+comment2.target=Pisica(Pisica)
+comment3.params=
+comment3.target=void\ spuneMiau()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cerc
+comment1.params=
+comment1.target=double\ getArie()
+comment2.params=
+comment2.target=double\ getLungime()
+comment3.params=
+comment3.target=Cerc()
+comment4.params=raza
+comment4.target=Cerc(double)
+numComments=5
